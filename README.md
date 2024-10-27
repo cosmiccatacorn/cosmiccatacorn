@@ -1,8 +1,22 @@
-- 👋 Hi, I’m @cosmiccatacorn
-- 👀 I’m interested in Python development, data science, ML, robotics and game dev!
-- 🌱 I’m currently learning about ML, Arduino
-- 💞️ I’m looking to collaborate on documentation, coding, desing!
-- 📫 How to reach me: marimeicata@gmail.com. Insta: @cosmic_catacorn
+# Hello! It's @cosmiccatacorn here!
+
+## About me
+
+My name is Catalina but you can call me Cata.
+
+Coding for fun.
+
+I'm interested in:
+* Python (for ML and Data Science)
+* Java (for OOP, DSA and academic purposes)
+* SQL (for fun)
+
+
+I'm looking to collaborate on:
+* Documentation
+* Creative Problem Solving
+
+Reach me: marimeicata@gmail.com. Instagram: @cosmic_catacorn
 
 <!---
 cosmiccatacorn/cosmiccatacorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
