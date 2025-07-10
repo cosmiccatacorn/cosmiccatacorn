@@ -2,23 +2,17 @@
 
 ## About me
 
-My name is Catalina but you can call me Cata.
-
-Coding for fun.
+My name is Catalina but you can call me Cata!
 
 I'm interested in:
-* Python (for ML and Data Science)
-* Java (for OOP, DSA and academic purposes)
-* SQL (for fun)
+* Web Development (Make the web awesome again)
+* Automations
+* Deep Learning
 
 
 I'm looking to collaborate on:
 * Documentation
-* Creative Problem Solving
+* Creative projects
 
-Reach me: marimeicata@gmail.com. Instagram: @cosmic_catacorn
-
-<!---
-cosmiccatacorn/cosmiccatacorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Reach me: marimeicata@gmail.com 
+Instagram: @not_not_cata
