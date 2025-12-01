@@ -7,7 +7,7 @@ My name is Catalina but you can call me Cata!
 I'm interested in:
 * Web Development (Make the web awesome again)
 * Automations
-* Deep Learning
+* AI 
 
 
 I'm looking to collaborate on:
